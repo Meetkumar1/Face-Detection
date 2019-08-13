@@ -1,0 +1,1 @@
+Face Detection is performed using the technique called cascade classifiers first described by Paul Viola and Michael Jones and their 2001 paper titled “Rapid Object Detection using a Boosted Cascade of Simple Features.”
