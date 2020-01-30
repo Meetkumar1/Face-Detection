@@ -1,3 +1,3 @@
-# Face, Ear detection along with Smile Detection on live webcam.
+# Face, Ear and Smile Detection on live webcam.
 
-Using Haar cascade for all.
+Using OpenCV and Haar cascade for all.
