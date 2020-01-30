@@ -1,3 +1,3 @@
 # Face and Eye Detection - OpenCV
 
-Using haar cascade for eye and face.
+Face and Eye Detection on live webcam using haar cascade for eye and face.
